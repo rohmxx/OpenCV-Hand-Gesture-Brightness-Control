@@ -1,0 +1,1 @@
+# OpenCV-Hand-Gesture-Brightness-Control
